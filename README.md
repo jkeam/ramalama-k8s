@@ -8,6 +8,7 @@
 
 ## What is this?
 
+This is awesome.
 Ramalama with Kubernetes makes it incredibly easy to run your own ChatGPT-like AI models in Kubernetes or OpenShift. Whether you're a developer, DevOps engineer, or AI enthusiast, this project helps you:
 
 - **Get started quickly** - Deploy AI models in minutes, not hours
